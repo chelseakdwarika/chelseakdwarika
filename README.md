@@ -1,15 +1,4 @@
 <h1 align='center'>
-  <style type="text/css" scoped>
-.GeneratedText {
-font-family:Monaco, monospace;font-size:xx-large;font-stretch:normal;letter-spacing:0.2em;line-height:1.3em;color:#000000;background-color:#FF99CC;padding:1.5em;
-}
-</style>
-<div class="GeneratedText">Hi, I'm Chelsea!</div>
-</h1>
-
-
-
-<h1 align='center'>
   👋 Hi, I’m Chelsea Dwarika!
 </h1>
 
