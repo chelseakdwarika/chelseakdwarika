@@ -13,11 +13,9 @@
    <a href="https://discordapp.com/users/chelseakdwarika#2823">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 
- <span style="color:pink">
- <h2 align='center'>
+ <h2 align='center' style="color:pink">>
 <a href="https://chelseakdwarika.github.io/resume/">🌸RESUME🌸
-</h2>
-
 </style>    
+</h2>
     
 
