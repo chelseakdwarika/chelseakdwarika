@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=chelsea%20dwarika&fontSize=60)
+
 <h1 align='center'>
   👋 Hi, I’m Chelsea Dwarika!
 </h1>
@@ -16,5 +18,4 @@
 <p align='center'>
 <a href="https://chelseakdwarika.github.io/resume/"><img src="https://i.picasion.com/gl/92/gUUg.gif" width="169" height="38" border="0" alt="glitter maker" /></a><br /><a href="https://picasion.com/gl/gUUg/"></a>    
   
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
