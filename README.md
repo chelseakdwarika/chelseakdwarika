@@ -12,6 +12,7 @@
     
    <a href="https://discordapp.com/users/chelseakdwarika#2823">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-
+     
+<p align='center'>
 <a href="https://chelseakdwarika.github.io/resume/"><img src="https://i.picasion.com/gl/92/gUUg.gif" width="169" height="38" border="0" alt="glitter maker" /></a><br /><a href="https://picasion.com/gl/gUUg/"></a>    
 
