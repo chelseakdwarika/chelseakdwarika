@@ -9,7 +9,8 @@
 
 <p align='center'>
  🌱 I’m currently learning at Lighthouse Labs!
-<br/><br/>
+  
+  
 <p align='center'>
   <a href="https://www.linkedin.com/in/chelseadwarika/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
