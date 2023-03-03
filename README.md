@@ -1,10 +1,10 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=chelsea%20dwarika&fontSize=60&animation=fadeIn&theme=material-palenight)
+![header](https://capsule-render.vercel.app/api?type=wave&height=300&section=header&text=chelsea%20dwarika&fontSize=40&animation=fadeIn&theme=material-palenight)
   
 
 
 <h1 align='center'>
-  👋 Hi, I’m Chelsea Dwarika!
+  👋 Hi, I’m Chelsea!
 </h1>
 
 <p align='center'>
