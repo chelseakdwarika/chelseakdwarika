@@ -12,7 +12,7 @@
     
    <a href="https://discordapp.com/users/chelseakdwarika#2823">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-     
-   <a href="https://chelseakdwarika.github.io/resume/">RESUME
+<p align='center'>     
+   ## <a href="https://chelseakdwarika.github.io/resume/">RESUME
     
 
