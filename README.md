@@ -3,9 +3,9 @@
   
 
 
-<h1 align='center'>
+<h2 align='center'>
   👋 Hi, I’m Chelsea!
-</h1>
+</h2>
 
 <p align='center'>
  🌱 I’m currently learning at Lighthouse Labs!
