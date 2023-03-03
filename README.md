@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&height=300&section=header&text=chelsea%20dwarika&fontSize=40&animation=fadeIn&theme=material-palenight)
+![header](https://capsule-render.vercel.app/api?type=wave&height=200&section=header&text=chelsea%20dwarika&fontSize=40&fontAlign=50&&fontAlignY=50&animation=fadeIn&theme=cobalt)
   
 
 
