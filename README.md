@@ -1,5 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&height=200&section=header&text=👋%20Hi,%20I'm%20Chelsea!&fontSize=40&fontAlign=50&&fontAlignY=50&animation=fadeIn&theme=cobalt)
+![ background](background.png)
+
+
 <p align='center'>
  🌱 I’m a recent graduate of the Web Development bootcamp at Lighthouse Labs!<br>
  LATELY (jan 2024): a personalized ADHD-friendly cookbook app for my best friend 🍳📘, as well as two Shopify sites 🛍️ for local businesses.<br>
