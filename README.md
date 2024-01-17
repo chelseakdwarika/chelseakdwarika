@@ -1,6 +1,5 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&height=200&section=header&text=👋%20Hi,%20I'm%20Chelsea!&fontSize=40&fontAlign=50&&fontAlignY=50&animation=fadeIn&theme=cobalt)
-<style type="text/css">* {cursor: url(https://ani.cursors-4u.net/nature/nat-11/nat1058.cur), auto !important;}</style><a href="https://www.cursors-4u.com/cursor/2017/03/14/strawberry-18.html" target="_blank" title="Strawberry"><img src="https://cur.cursors-4u.net/cursor.png" border="0" alt="Strawberry" style="position:absolute; top: 0px; right: 0px;" /></a>
 
 
 <p align='center'>
