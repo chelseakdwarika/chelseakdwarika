@@ -1,5 +1,4 @@
-
-![header](https://capsule-render.vercel.app/api?type=wave&height=200&section=header&text=👋%20Hi,%20I'm%20Chelsea!&fontSize=40&fontAlign=50&&fontAlignY=50&animation=fadeIn&theme=cobalt)
+<h1>Hi, I'm Chelsea!</h1>
 
 
 <p align='center'>
