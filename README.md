@@ -1,6 +1,5 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&height=200&section=header&text=👋%20Hi,%20I'm%20Chelsea!&fontSize=40&fontAlign=50&&fontAlignY=50&animation=fadeIn&theme=cobalt)
-![ background](background.png)
 
 
 <p align='center'>
@@ -19,7 +18,7 @@
 <p align='center'>
 <a href="https://chelseakdwarika.github.io/resume/"><img src="https://i.picasion.com/gl/92/gUUg.gif" width="169" height="38" border="0" alt="glitter maker" /></a><br /><a href="https://picasion.com/gl/gUUg/"></a>
  <br>
- <div class="badges" style="cursor: none;!important">
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
@@ -32,4 +31,3 @@
   <img src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown" />
   <img src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  </div>
