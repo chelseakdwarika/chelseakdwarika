@@ -2,8 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&height=200&section=header&text=👋%20Hi,%20I'm%20Chelsea!&fontSize=40&fontAlign=50&&fontAlignY=50&animation=fadeIn&theme=cobalt)
 <p align='center'>
  🌱 I’m a recent graduate of the Web Development bootcamp at Lighthouse Labs!<br>
- LATELY: a personalized cookbook app for my best friend 🍳📘, as well as two Shopify sites 🛍️ for local businesses.<br>
- UP NEXT: diving into Python 🐍, AI 👩🏾‍💻, and <a href="">this very long list of fun things I want to create someday.</a>
+ LATELY: a personalized ADHD-friendly cookbook app for my best friend 🍳📘, as well as two Shopify sites 🛍️ for local businesses.<br>
+ UP NEXT: diving into Python 🐍, and <a href="">this very long list of fun things I want to create someday.</a>
   
 <p align='center'>
   <a href="https://www.linkedin.com/in/chelseadwarika/">
