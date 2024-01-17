@@ -1,7 +1,7 @@
-<h1>Hi, I'm Chelsea!</h1>
+<h1 align='center'>Hi, I'm Chelsea!</h1>
 
 
-<p align='left'>
+<p align='center'>
  🌱 I’m a recent graduate of the Web Development bootcamp at Lighthouse Labs!<br>
  LATELY (jan 2024): a personalized ADHD-friendly cookbook app for my best friend 🍳📘, as well as two Shopify sites 🛍️ for local businesses.<br>
  UP NEXT: diving into Python 🐍, and a very long list of fun things I want to create someday (coming soon)!
