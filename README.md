@@ -4,12 +4,12 @@
 <p align='center'>
  🌱 I’m a graduate of the Web Development bootcamp at Lighthouse Labs!<br>
  <br>
- LATELY (January 2024): 
+ LATELY (January 2024):<br>
  - I'm building a personalized ADHD-friendly cookbook app for my best friend 🍳📘<br>
  - the end of an incredible Shopify development contract with The Roasters Pack - bringing together my loves of coffee and code.<br> 
  - the start of a new project - keeping it stylish and revamping yet another Shopify storefront for The Trend Apparel!<br>
  <br>
- UP NEXT: diving into Python 🐍, and the very long list of fun things I want to create someday (coming soon)!
+ UP NEXT:<br> diving into Python 🐍, and the very long list of fun things I want to create someday (coming soon)!
   
 <p align='center'>
   <a href="https://www.linkedin.com/in/chelseadwarika/">
