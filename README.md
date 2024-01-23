@@ -6,8 +6,8 @@
  <br>
  <h2>LATELY (January 2024):</h2><br>
  - I'm building a personalized ADHD-friendly cookbook app for my best friend 🍳📘<br>
- - the end of an incredible Shopify development contract with The Roasters Pack - bringing together my loves of coffee and code.<br> 
- - the start of a new project - keeping it stylish and revamping yet another Shopify storefront for The Trend Apparel!<br>
+ - the end of an incredible Shopify development contract with <a href="https://theroasterspack.com/">The Roasters Pack</a> - bringing together my loves of coffee and code.<br> 
+ - the start of a new project - keeping it stylish and revamping yet another Shopify storefront for The Trend Apparel! This time, we're really focusing on improving site speed and I'm learning more about SEO!<br>
  <br>
  <h2>UP NEXT:</h2><br> diving into Python 🐍, and the very long list of fun things I want to create someday (coming soon)!
   
