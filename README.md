@@ -2,9 +2,10 @@
 
 
 <p align='center'>
- 🌱 I’m a recent graduate of the Web Development bootcamp at Lighthouse Labs!<br>
- LATELY (jan 2024): 
- - a personalized ADHD-friendly cookbook app for my best friend 🍳📘<br>
+ 🌱 I’m a graduate of the Web Development bootcamp at Lighthouse Labs!<br>
+ <br>
+ LATELY (January 2024): 
+ - I'm building a personalized ADHD-friendly cookbook app for my best friend 🍳📘<br>
  - the end of an incredible Shopify development contract with The Roasters Pack - bringing together my loves of coffee and code.<br> 
  - the start of a new project - keeping it stylish and revamping yet another Shopify storefront for The Trend Apparel!<br>
  <br>
