@@ -1,3 +1,8 @@
+<marquee behavior="scroll" direction="left" scrollamount="1">Very slow...</marquee>
+<marquee behavior="scroll" direction="left" scrollamount="10">Faster...</marquee>
+<marquee behavior="scroll" direction="left" scrollamount="20">Fast...</marquee>
+<marquee behavior="scroll" direction="left" scrollamount="50">Lightning!</marquee>
+
 <h1 align='center'>Hi, I'm Chelsea!</h1>
 
 
