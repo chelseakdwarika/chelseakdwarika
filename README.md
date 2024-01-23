@@ -9,8 +9,9 @@
  - the end of an incredible Shopify development contract with <a href="https://theroasterspack.com/">The Roasters Pack</a> - bringing together my loves of coffee and code.<br> 
  - the start of a new project - keeping it stylish and revamping yet another Shopify storefront for The Trend Apparel! This time, we're really focusing on improving site speed and I'm learning more about SEO!<br>
  <br>
- <h2>UP NEXT:</h2><br> diving into Python 🐍, and the very long list of fun things I want to create someday (coming soon)!<br>
-  
+ <h2>UP NEXT:</h2><br> diving into Python 🐍, and the very long list of fun things I want to create someday (coming soon)!
+  <br>
+ <br>
 <p align='center'>
   <a href="https://www.linkedin.com/in/chelseadwarika/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
