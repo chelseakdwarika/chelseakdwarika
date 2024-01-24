@@ -11,8 +11,12 @@
  <br>This time, we're really focusing on improving site speed 🚀 and I'm learning lots about SEO! 📈 <br>
  <br>
  <h2>UP NEXT:</h2>
- ✮⋆˙ diving into Python 🐍, and a very long list of fun things I want to code someday (coming soon)!
+ ✮⋆˙ diving into Python 🐍 <br>
+ ✮⋆˙ leveling up on Ruby/Rails 💎 <br>
+ ✮⋆˙ <a href="https://academy.shopify.com/path/liquid-storefronts-for-theme-developers">This Shopify Liquid learning path</a><br>
+ and a very long list of fun things I want to code someday (coming soon)!
   <br>
+  
  <br>
 <p align='center'>
   <a href="https://www.linkedin.com/in/chelseadwarika/">
