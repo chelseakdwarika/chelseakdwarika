@@ -4,7 +4,7 @@
 <p align='center'>
  🌱 I’m a graduate of the Web Development bootcamp at Lighthouse Labs!<br>
  <br>
- <h2>LATELY (January 2024):</h2>
+ <h2>LATELY (February 2024):</h2>
  ✮⋆˙ I'm building a <a href="https://chelsea-tarot.vercel.app/directory.html">Tarot Card app</a>, a portfolio for my film photography, and a personalized ADHD-friendly cookbook/recipe app for my best friend. 🍳👩🏾‍🍳<br>
  ✮⋆˙ the end of an incredible Shopify development contract with <a href="https://theroasterspack.com/">The Roasters Pack</a> ☕ - bringing together my loves of coffee and code. <br> 
  ✮⋆˙ the start of a new project - keeping it stylish and revamping yet another Shopify storefront for The Trend Apparel! 🛍️
