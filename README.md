@@ -6,8 +6,9 @@
  <br>
  <h2>LATELY (June 2024):</h2>
  ✮⋆˙ I'm building a <a href="https://chelsea-tarot.vercel.app/directory.html">Tarot Card app</a>, a portfolio for my <a href="https://chelsea-photo.vercel.app/">film photography</a>, and a personalized ADHD-friendly cookbook/recipe app for my best friend. 🍳👩🏾‍🍳<br>
- ✮⋆˙ the end of an incredible Shopify development contract with <a href="https://theroasterspack.com/">The Roasters Pack</a> ☕ - bringing together my loves of coffee and code. <br> 
- ✮⋆˙ the end of revamping yet another Shopify storefront for The Trend Apparel! 🛍️ I got to really focus on improving site speed 🚀 and I learned lots about SEO! 📈 <br>
+ ✮⋆˙ this spring I wrapped up an incredible Shopify development contract with <a href="https://theroasterspack.com/">The Roasters Pack</a> ☕ - bringing together my loves of coffee and code. <br> 
+ ✮⋆˙ ...and another contract revamping yet another Shopify storefront for <a href="https://thetrendapparel.com/">The Trend Apparel</a>! 🛍️ I got to really focus on improving site speed 🚀 and I learned lots about SEO! 📈 <br>
+ ✮⋆˙ I had the absolute pleasure of designing and building a <a href="https://www.averyjane.ca/">personal website for Avery Jane Paul</a>, an incredible Montreal-based musician. I used the Squarespace platform which is so intuitive, and I also got to code some custom features for her. I learned about DNS records/setting up a personal domain, creating and sending out newsletter templates, and integrating external media and showcasing her music and photos in a beautiful, responsive way.
  <br>
  <h2>UP NEXT:</h2>
  ✮⋆˙ diving into Python 🐍 <br>
